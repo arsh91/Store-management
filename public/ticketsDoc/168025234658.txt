@@ -1,0 +1,525 @@
+"Agency Name","Account Number","Type of Account","Routing Number","Epic Code"
+"2nd State Insurance Agency, Inc.",1070726012,043000096,Checking,2NDSTAT-01
+"Abraham Hobson Insurance Services, LLC",7532983312,031303129,Checking,HOBSONA-01
+"Accolade Insurance Of Texas LLC DBA Insurance City",778179080,111000614,Checking,INSCITY-01
+"Acrisure LLC DBA Spears & Houston Insurance Group",579661189,072000326,Checking,BRIANSP-01
+"Acrisure LLC DBA The David Nix Agency",936442409,072000326,Checking,DAVINIX-01
+"Acrisure LLC DBA Wyatt Insurance Group, Inc.",936442409,072000326,Checking,WYATINS-01
+"Acrisure, LLC",----,----,----,----
+"Acrisure, LLC DBA Bartlett Insurance Agency",818681675,072000326,Checking,BARTLET-01
+"Acrisure, LLC DBA Fargo Ins And Fin. Svcs",796930938,072000326,Checking,FARGINS-01
+"Acrisure, LLC DBA Kathye Carpenter Agency",825881557,072000326,Checking,CARPENT-01
+"Adams Insurance Agency",157528524810,121122676,Checking,ADAMSIN-01
+"Adion Financial Group, LLC",4250768111,011103093,Checking,ADIONFI-01
+"Adrienne L Tucker And Associates",1385681,021113251,Checking,ADRILTU-01
+"Advisor HR Insurance Services, Inc.",7472558878,053100737,Checking,ADVISOR-01
+"Aegis Group LLC",9200287799,301171353,Checking,AEGISGR-01
+"Akin And Associates, Inc.",3190153,062205791,Checking,AKIN&AS-01
+"Alexander Insurance Group",8010000770425,053200983,Checking,ALEXINS-01
+"Alfreda Jones Agency",217700770,113122655,Checking,ALFRJON-01
+"All About Insurance",201140317,053100465,Checking,ALLABOU-01
+"Alpha Direct Agency, LLC",483005099442,021000322,Checking,ALPHDIR-01
+"Amato Insurance Group, Inc.",0005109274765,053101121,Checking,AMATINS-01
+"American Plus Group, Inc.",609517096,021000021,Checking,AMERPLU-01
+"Andrew Harcourt Agency, Inc.",012006839,243373332,Checking,ANDHARC-01
+"Angela Akers Agency, Inc.",0000151576974,051404260,Checking,AKERAGE-01
+"Anthony DiBileo Insurance Agency",1000851080,122287251,Checking,ANDIBIL-01
+"Austin Insurance Agency",2000011066028,051400549,Checking,AUSTINI-01
+"Austin Taylor Insurance Agency",0000154401,061104123,Checking,AUSTTAY-01
+"B.D. Chapman Insurance Agency, Inc.",7001725283,021303618,Checking,CHAPMAN-01
+"Bair Insurance Group, Inc.",1132788981,043000096,Checking,BAIRINS-01
+"Baldo Downs Insurance, LLC",25261005,262277286,Checking,BALDDOW-01
+"Baldwin Risk Partners",----,----,Checking,BALDWIN-01
+"Barry L. Maluchnik",1001219808,044072324,Checking,MALUCHN-01
+"Barson Associates, Inc.",235500112365,021000021,Checking,BARSONA-01
+"Bates & Hewett Inc.",0102152,063114030,Checking,BATES&H-01
+"Baughan Insurance",157528506528,121122676,Checking,BAUGHAN-01
+"Baxter Agency LLC",1003285937,061100606,Checking,BAXTAGE-01
+"Bay Shore Insurance, LLC",1360611902,255071981,Checking,BAYSHOR-01
+"BCF Group, Inc",5411013724,031913438,Checking,BCFGROU-01
+"Beck And Associates, LLC",817367383,072000326,Checking,BECK&AS-01
+"Bellamy Insurance Group",488087351365,113000023,Checking,BELLAMY-01
+"Bentley Insurance, Inc.",0131811191,062000019,Checking,BENTLEY-01
+"Bertram T Richardson III",565655410,253271916,Checking,BERTRAM-01
+"Beveridge And Akers Insurance Group",800106539166,064008637,Checking,BEVAKER-01
+"Beveridge Insurance Agency",11030008326,051409320,Checking,BEVERID-01
+"Bickle Insurance Services, LLC",100894329,041272279,Checking,BICKINS-01
+"Bill Abee Insurance Group",535091124,053104869,Checking,BILLABE-01
+"BIS Property & Casualty, LLC",247152,061113282,Checking,BISPROP-01
+"Blaeser Insurance Agency, LLC",25040901,011500120,Checking,BLAESER-01
+"Blerim Cami Agency Corp",8311020280,221472815,Checking,BLERCAM-01
+"Bob Mary III Insurance, LLC",1040761124,043000096,Checking,BOBMARY-01
+"Bobinski Insurance Agency",4334402243,071025661,Checking,BOBINSK-01
+"Boyer Insurance, LLC",0244092144,244172095,Checking,BOYEINS-01
+"Brad Barnett Insurance Agency, Inc.",4500830,084101051,Checking,LONGAGE-01
+"Brad Sizemore Insurance",2000017783402,053000219,Checking,BSIZEMO-01
+"Brandon Price Insurance Agency, LLC",080097425501,053906041,Checking,BRANPRI-01
+"Brewer Insurance Group, Inc.",,,Checking,BREWINS-01
+"Brian C. Knight Agency, LLC",223012475280,053904483,Checking,KNIGHTB-01
+"Brian J. Sheehan Agency",8400665016,031000053,Checking,SHEEHAN-01
+"Brian McLoughlin & Associates, Inc.",10103713,114000763,Checking,MCLOUBR-01
+"Brick Insurance Group, Inc.",01090142171,044115090,Checking,BRICINS-01
+"Brooks McCall And Associates, Inc.",9705176858,031100869,Checking,BROOMCC-01
+"Bruce Cohee Agency, Inc.",003928837093,052001633,Checking,COHEEBR-01
+"Bruns Insurance Services, LLC",2585735,031306278,Checking,BRUNINS-01
+"Burke & Burke Insurance, LLC",5060011755,056004445,Checking,BURKE&B-01
+"Burnett Insurance Agency, Inc.",2000017186,051904524,Checking,BURNETT-01
+"Burns Insurance Group, LLC",615003398,211170282,Checking,BURNINS-01
+"Bye Insurance Agency, Inc.",817367193,072000326,Checking,BYEINSU-01
+"Byrd Agency, Inc.",007411251201,053100300,Checking,BYRDAGE-01
+"Byus & Associates, Inc",30104703,053112550,Checking,BYUS&AS-01
+"C&C Risk",----,----,----,----
+"Cadence Insurance",----,----,----,----
+"Cali Associates",151004614567,021000021,Checking,CALIASC-01
+"Cannon And Associates Insurance",7552712262,051400549,Checking,CANNON&-01
+"Cannon Insurance Agency, LLC",218369306,113122655,Checking,CANNINS-01
+"Canopy Insurance Group",1421213,021113251,Checking,CANOPYI-01
+"Capital Coverage, Inc. DBA James J. Basso Agency",7047814779,021407912,Checking,CAPITAL-01
+"Captain Coverage, Inc.",788820097,021000021,Checking,CAPTAIN-01
+"Carolina Ins Grp Of Kernersville, Inc",5203850249,053101121,Checking,CAROINS-01
+"Carolinas Coverage Insurance Agency",801000146064,063114030,Checking,CAROCOV-01
+"Caroline Hall Hennig Agency",10139617,074904640,Checking,CAROHAL-01
+"Carosella Insurance Agency",1020809688,043000096,Checking,CAROSEL-01
+"Castrogiovanni Agency, Inc.",0004036729,031311807,Checking,CASTAGE-01
+"Cavnar Insurance Agency, LLC",90110026425,111301122,Checking,CAVNARI-01
+CCIG,----,----,----,----
+"Chambliss Insurance, Inc.",0000126521529,062203984,Checking,CHAMBLI-01
+"Chichester Insurance Agency, Inc.",083188348301,053906041,Checking,CHICHES-01
+"Chris Davis Agency, LLC",0160315510,262285223,Checking,CHRIDAV-01
+"Chris Heath Agency, Inc.",0208017715,253271822,Checking,CHRIHEA-01
+"Chris Schiefer Ins And Financial",4223190,041212637,Checking,SCHIEFE-01
+"Christian-Baker Company",1120275258,031315036,Checking,CHRISBA-01
+"Christopher E. Perry & Associates, LLC",083143083001,053906041,Checking,PERRYAS-01
+"Clair Associates",3000443493,043306855,Checking,DANCLAI-01
+"Clark Farley Insurance",157529649681,121122676,Checking,CLARFAR-01
+"Clevenger Insurance Services, Inc.",817366963,072000326,Checking,CLEVENG-01
+"CNW Insurance Group Inc",7190006086,271972899,Checking,CNWINSU-01
+"Coastal Insurance Agency, Inc.",3500092201,051405670,Checking,COASINS-01
+"Coates Insurance Agency",435038949274,051000017,Checking,COATINS-01
+"Cole Hixon Insurance, Inc.",0007492,061112364,Checking,COLEHIX-01
+"Comalander Insurance Group, LLC",083134214201,053906041,Checking,COMALAN-01
+"Consultative Insurance Group",100765950,041272279,Checking,CONSINS-01
+"Coppedge Insurance Agency, Inc.",5131830434,051404260,Checking,COPPINS-01
+"Cornelius Insurance Agency",0009923292,062000019,Checking,CORNELI-01
+"Costas Insurance Group",1000258839272,061000104,Checking,COSTASJ-01
+"Cothran Schoonover, LLC",1470013532354,051404260,Checking,COTHINS-01
+"Crane Group, Inc.",537821036,031307086,Checking,CRANGRO-01
+"Crivelli Insurance And Financial Svcs, Inc.",0507530001,121108441,Checking,CRIVELL-01
+"Crumrine Financial Svcs",100003300096,044072324,Checking,CRUMFIN-01
+"Cypress Risk Solutions, LLC DBA Allison Insurance",5001338994,062006505,Checking,CYPRESS-01
+"Dalessandro Agency, Inc.",7161066811,072400052,Checking,DALEAGE-01
+"Dan Muirhead Insurance, LLC",1005282597,044072324,Checking,DANMUIR-01
+"Dan Thompson Agency, Inc.",0005105951959,053101121,Checking,DANTHOM-01
+"Daniel Carinci Agency, LLC",95050492,043318092,Checking,CARINCI-01
+"Daprile Insurance Group, LLC",01789754825,041215032,Checking,DAPRILE-01
+"Darla A Baker Insurance Agency, LLC",7129699,041213759,Checking,DARLABA-01
+"Dave Gosselin Agency",8616712045,031000053,Checking,GOSSELI-01
+"David A. Gardner Agency",2200761401,031309495,Checking,GARDNER-01
+"David L. Grodner",1171122953,021000021,Checking,GRODAGE-01
+"David Lee May, Jr. Agency",1000479205,122287251,Checking,DAVILMA-01
+"David Martin Insurance Agency, Inc.",6100083486,051403164,Checking,DAVIMAR-01
+"David S. Lansdowne Insurance Agency",0511025521,231375151,Checking,LANSDOW-01
+"Dean D. Young Agency, Inc.",5311040939,231372691,Checking,DEANDYO-01
+"Deep River Insurance",0011028610,053104568,Checking,DEEPRIV-01
+"DeNapoli Associates",009505973757,021000322,Checking,DENAPOL-01
+"Denison And Associates Insurance, LLC",875000325,065303360,Checking,DENISON-01
+"Dennis Horne DBA Horne Insurance",0100050599,231371605,Checking,DENNHOR-01
+"DiFranco Insurance And Financial",3029005642,043318092,Checking,DIFRANC-01
+"Diversified Commercial Insurers, Inc",8094223274,102000607,Checking,DIVERSI-01
+"Don Atwell And Associates",3238583,111001040,Checking,DONATWE-01
+"Don Hodson Insurance Associates, Inc.",1010740551331,251483023,Checking,HODSOND-01
+"Don Morris Insurance Agency, Inc.",1000301253,122287251,Checking,DONMORR-01
+"Donnell Insurance Agency, LLC",133424423,082900432,Checking,DONNELL-01
+"Donner Farber And Associates",936442409,072000326,Checking,DONFARB-01
+"Dott Insurance Group. LLC",1049124826,043000096,Checking,DOTTINS-01
+"Dream Assurance LLC",70017660,101114895,Checking,DREAMAS-01
+"Dunn Insurance, Inc.",157529978395,121122676,Checking,DUNNINS-01
+"Dunton Insurance Agency, LLC",1049948809,043000096,Checking,DUNTONS-01
+"E.A. Funk And Associates, Inc.",885500255865,021000021,Checking,EAFUNKA-01
+"Eanes Insurance Group, LLC",1000260756480,061000104,Checking,EANEINS-01
+"Earl Carney Insurance",157528506536,121122676,Checking,SKCARNE-01
+"East Coast Agency Of Mt. Olive, LLC",86640278,056004445,Checking,ECAMTOL-01
+"East Coast Agency Of Tabor City, LLC",85014707,056004445,Checking,ECATABO-01
+"East Coast Agency Of Virginia Beach, LLC",86542573,056004445,Checking,ECAVIRG-01
+"East Coast Agency Of Wilmington, LLC",87078215,056004445,Checking,ECAWILM-01
+"Eastern Carolina Insurance",002982393709,053100300,Checking,SCOTINS-01
+"Eberle Insurance Agency",0430153401,082001179,Checking,EBERLEI-01
+"EK Insurance, LLC",2192970313,031000503,Checking,EKINSUR-01
+"Element Risk Management LLC",100600289,041272279,Checking,ELEMENT-01
+"Elliott Daughtry, LLC",0291976729,062206567,Checking,ELLIDAU-01
+"Elliott Insurance Group, LLC",1077678,053112783,Checking,ELLIOTI-01
+"Eric Shick Insurance",3004986372,043306855,Checking,SHICKIN-01
+"Ernie Yarborough Ins Agency",083126899001,053906041,Checking,ERNIYAR-01
+"F. Frederick Breuninger & Son Insurance, Inc.",0100007094,231372028,Checking,BREUNIN-01
+"Farm Creek Insurance, LLC",4011271980,052100932,Checking,FARMCRE-01
+FCAA,11AA22BB33CC44DD,76676876876,Checking,123@asd
+"Ferullo Insurance Agency",839873095,072000326,Checking,FERULLO-01
+"Finpoint Insurance Group, Inc.",1340006043398,053101121,Checking,FINPOIN-01
+"Fiorelli Agency, LLC",7606859275,031000503,Checking,FIOREAG-01
+"Fiorelli Financial Group, LLC",1390003271621,031309123,Checking,FIORELL-01
+"First Citizens Bank",----,----,----,----
+"First Insurance Agency, Inc.",006111929338,053100300,Checking,FIRSINS-01
+"First Insurance Group, LLC DBA FNIC",24378886,104000016,Checking,FNICGRO-01
+"First Mid Insurance Group, Inc.",0001843098,071102076,Checking,FIRSTMI-01
+"FirstChoice, A MarshBerry Company",----,----,----,----
+"Fletcher Insurance Group Inc",0005198298486,053101121,Checking,FLETCHE-01
+Forge3,----,----,----,----
+"Fortis Insurance Partners, Inc.",12006973,111024975,Checking,FORTIS1-01
+"Foundations Insurance Group, LLC",817621003,061092387,Checking,FOUNDAT-01
+"Franchise Insurance Agency, Inc.",9000394731,074900657,Checking,FRANINS-01
+"Frederick S. Homonek And Associates, Inc.",003252964624,061000052,Checking,HOMONEK-01
+"FRM Group Insurance And Financial Services",361090542,031307691,Checking,FRMGROU-01
+"Gaillard Dotterer Agency, LLC",1110236831,062006505,Checking,GAILDOT-01
+"Gannon Associates",5071203,031308302,Checking,GANNONA-01
+"Garbe Associates, LLC",4271925211,026013673,Checking,GARBEAS-01
+"Garcia-Taylor Insurance Agency, Inc.",1390016668334,031309123,Checking,GARCTAY-01
+"Gary A. DiBileo Agency, Inc.",2030000424078,031000503,Checking,GADIBIL-01
+"Gary Blaustein Associates",157529789693,121122676,Checking,BLAUSTE-01
+"Gary R. Hodge Agency",2000023982721,053207766,Checking,HODGEGA-01
+"Gearhart Herr & Company, Inc. Dba Doty & Hench",95743828,043318092,Checking,GEARHAR-01
+"Geoffrey Karlen Agency, Inc.",8000001951,052204359,Checking,KARLENG-01
+"German American Insurance",----,----,Checking,GERMANA-01
+"Glick Insurance Group, Inc.",157528506510,121122676,Checking,GLICKAS-01
+"GMS Insurance, LLC",1390006203821,031309123,Checking,GMSINSU-01
+"Good And Associates, Inc.",7110332738,043306826,Checking,GOOD&AS-01
+"Graham Insurance Group, Inc.",1018133172,043000096,Checking,GRAHAMI-01
+"Graham Insurance, Inc.",192003309,011501682,Checking,GRAHINS-01
+"Greg Ridpath Insurance Agency, Inc.",5001350965,062006505,Checking,GREGRID-01
+"Griffin Insurance Agency",535140881,053104869,Checking,GRIFFIN-01
+"Griffin Owens Insurance Group",2010021096,056009246,Checking,GRIFOWE-01
+"Griffin-Owens Insurance",2010021096,056009246,Checking,GRIFOWE-01
+"Grove Financial And Associates",5115981876,031312738,Checking,GROVEFI-01
+"Guidelight Insurance Solutions, Inc.",,,Checking,GUIDELI-01
+"H. Lee Granger, Inc.",0334987901,052101957,Checking,HLEEGRA-01
+"Haffley Insurance, Inc.",14309280,031302528,Checking,HAFFLEY-01
+"Hagerty Insurance",0366206449,036001808,Checking,HAGERTY-01
+"Harding Yost Insurance",0361918791,031301422,Checking,HARDING-01
+"Hardy Insurance Agency, Inc",2509362,051403164,Checking,HARDYAG-01
+"Harner Insurance, Inc.",19096072,031308807,Checking,HARNERN-01
+"Harold R Wyatt, Inc.",150001938301,053201487,Checking,HARORWY-01
+"Hartzberg Insurance Group, LLC",2676821092,243074385,Checking,HARTZBE-01
+"Hasty Insurance",157529789685,121122676,Checking,HASTYIN-01
+"Hausmann Group",142105,075909945,Checking,HAUSGRO-01
+"Hausmann Insurance And Financial Services",10206003,053200983,Checking,HAUSMAN-01
+"Hazen Family LLC",1132011107,043400036,Checking,BETHHAZ-01
+"Heflin And Associates Insurance Agency, LLC",0217129168,065305436,Checking,HEFLIN&-01
+"Heinz Insurance Agency, Inc.",1000947722,122287251,Checking,HEININS-01
+"Heltebridle Bounds",0005155940281,055003308,Checking,HELTEBR-01
+"Hemric Insurance Agency",1340008369851,053101121,Checking,HEMRICB-01
+"Herbert Townes & Associates, LLC",1029122507199,053000219,Checking,TOWNESH-01
+"Heritage Insurance Partners",3344457001,051400549,Checking,JIMBOCR-01
+"Highpoint Insurance Group",0282908056,062206567,Checking,DAUGINS-01
+"Highpoint Insurance Group, LLC (ML)",1004285068,113025723,Checking,HIGHPOI-01
+"Hiller Ringeman Insurance",157528508672,122235821,Checking,HILLERK-01
+"Hodge Ethridge Insurance",157531293890,121122676,Checking,HODGETH-01
+"Holdenrid Insurance Group",535140881,053104869,Checking,HOLDINS-01
+"Holliday Insurance Group, LLC",100536403,042205708,Checking,HOLLIDA-01
+"Homestead Insurance Agency Group, Inc.",0011483901,051402589,Checking,HOMESTE-01
+"Hotchkiss Insurance Agency LLC",001295226485,111000025,Checking,HOTCHKI-01
+"Hotel Insurance Group LLc",1100014098168,263191387,Checking,HOTELIN-01
+"Howe Insurance Group, LLC",606899752,111000614,Checking,HOWEINS-02
+"Hoyng Insurance Group, LLC",031506436,073902494,Checking,HOYNINS-01
+"Huffman Insurance Agencies",102000768,051409595,Checking,HUFFMAN-01
+"Huntington Insurance, Inc",01479744488,041215016,Checking,HUNTING-01
+"Hurley Insurance Group",000342258044,053100300,Checking,HURL&AS-01
+"Hutchison Insurance Agency, Inc",2828676,031305936,Checking,HUTCHIS-01
+"Independent Property & Casualty Group, LLC",1310132200919,053012582,Checking,INDEPRO-01
+"Ins And Fin Svcs At Champions",216193275,113122655,Checking,CHAMPIO-01
+"Insley Insurance And Financial",157530040722,121122676,Checking,INSLEYI-01
+"Insurance Consulting Services, LLC",780366057,072000326,Checking,STEVWAL-01
+"Insurance Marketing Agencies",----,----,----,----
+"Insurance One Group, Inc.",95435284,043318092,Checking,INSUONE-01
+"Insurance Partners Alliance, LLC",10092337,031308548,Checking,INSPART-01
+"InsuranceHub Agency",0300140767,061101375,Checking,INSHUBL-01
+"Insure, LLC",5739956513,053207766,Checking,INSUREL-01
+"InsurePro, Farmer And Associates",106869904,264279350,Checking,FARMERA-01
+"J. Harris Insurance Group, Inc.",217202177,113122655,Checking,JHARRIS-01
+"J. Kim Hatcher Insurance Holdings, Inc.",006441619324,053100300,Checking,JKIMHAT-01
+"J.A. Peterson, Inc.",,,Checking,JAPETER-01
+"J.M. Hamilton & Associates",----,----,----,----
+"Jack B. Kustra",1000452178686,031000503,Checking,KUSTRAJ-01
+"Jack Hutchison Insurance Agency, Inc.",9877757196,052000113,Checking,HUTCHIS-01
+"James B Coleman Jr Insurance Agency Inc",004127314507,051000017,Checking,JAMESBC-01
+"JD Auvil Agency, Inc.",0213060876,051408949,Checking,JDAUVIL-01
+"JD Insurance Group",1000086643,113094149,Checking,JDINSUR-01
+"Jeff Kincaid Agency",----,----,----,----
+"Jenkins Insurance And Financial Services, Inc.",100001219477,044072324,Checking,JENFINC-01
+"Jim Johnson Insurance Agency, Inc.",2000054209020,053000219,Checking,JIMJOHN-01
+"Joe Cook And Associates, Inc.",0784076739,111900659,Checking,JOECOOK-01
+"John C. Lee Group, LLC",1052086031,043000096,Checking,JOHNLEE-01
+"John F Baxter Inc DBA The Baxter Insurance Group",1470002719851,051404260,Checking,BAXTERI-01
+"John L. Sprague Agency, Inc.",5570196431,054000030,Checking,SPRAGUE-01
+"John Lovsin Agency, LLC",8992055015,053207766,Checking,LOVSINJ-01
+"John Malinchok Insurance Agency Inc",19074582,031308807,Checking,MALINCH-01
+"John P. Holroyd Agency",1699297,031912785,Checking,JOHNPHO-01
+"Johnson Insurance",----,----,Checking,JOHNFIN-01
+"Jon Peters Insurance Agency, Inc.",2010000814,062206693,Checking,JONPETE-01
+"Joseph DeFinis, Inc.",817365239,072000326,Checking,JOSEDEF-01
+"JPH II, Inc. Dba OakPoint Insurance",933080915,255072595,Checking,OAKPOIN-01
+"Justice-Killam Insurance & Financial Services Inc",1000297091182,051000020,Checking,AVERINS-01
+"Kelly Glass Insurance, Inc.",833469000,043318092,Checking,KELLGLA-01
+"Ken Boldt Insurance Agency, Inc.",4267592867,041000124,Checking,BOLDTIN-01
+"Kenneth J. Wisniewski",1001233440,122287251,Checking,WISNIEW-01
+"Kevin McLoughlin Agency",0000515884,114021933,Checking,MCLOUGH-01
+"Kight Insurance Agency",0624675701,061100606,Checking,KIGHINS-01
+"Kilgro & Associates, Inc",,,Checking,KILGRO&-01
+"Kim Rice Insurance And Financial Services, Inc.",220010144,051409029,Checking,KIMRICE-01
+"King Insurance Agency, Inc.",5136006691,051404260,Checking,KINGINS-01
+"Kingery And Company, Inc.",2160315,061220133,Checking,KING&CO-01
+"Kiser Insurance Agency",0201003231,043306855,Checking,KISERIN-01
+"Knippenberg Insurance, Inc.",817365072,072000326,Checking,KNIPPEN-01
+"Kurtin Insurance And Financial Svcs, Inc.",1001061405,111000614,Checking,KURTINI-01
+"Kyle Hatcher Insurance & Financial Services, Inc.",006441618890,053100300,Checking,KYLEHAT-01
+"Kyle V. Wolfe And Associates, Inc.",0005280459323,083900680,Checking,WOLFEKY-01
+"Lana Insurance Center, Inc.",0011347051,211170101,Checking,LANAINS-01
+"Lance Meiners Insurance Agy",01668342002,041000153,Checking,MEINERS-01
+"Landis Agencies, LLC",299298549,231373182,Checking,LANDAGE-01
+"Larry E Brown, Jr. Insurance Agency, Inc.",,,Checking,LARBROW-01
+"Larry Mitchell Agency, LLC",1000247997744,053100465,Checking,MITCHLA-01
+"Lawson Insurance Group, Inc.",----,----,Checking,LAWSINS-01
+"Lawver Insurance & Financial Services",,,Checking,LAWVERI-01
+"Leavitt Elite Insurance Advisors, LLC",535140881,053104869,Checking,HOLGRIF-01
+"Leavitt Group Texas Select",1896421540,111900659,Checking,NOLTENS-01
+"Lee Insurance, LLC",1036690474,043000096,Checking,LEEINSU-01
+"Lefebvre Insurance Agency, Inc.",032019911,011501682,Checking,LEFEBVR-01
+"Lehman Strickler Insurance Agency, LLC",200498168,031303132,Checking,LEHSTRI-01
+"Lewis Insurance And Financial",6236133348,036076150,Checking,LEWIINS-01
+"Lezam And Associates, LLC",781678336,072000326,Checking,LEZAM&A-01
+"Liberatore Insurance Group",201931134,314089681,Checking,LIBERAT-01
+"Lim's Insurance Agency, Inc.",004113032165,051000017,Checking,LIMSINS-01
+"Lisa Broadbent Insurance, Inc.",2000900160750,031100869,Checking,BROADBE-01
+"Loscalzo Enterprises, Ltd.",766116813,021000021,Checking,LOSCALZ-01
+"Louisiana Companies",1596014504,065400137,Checking,LACOMPA-01
+"Lowe And Associates Insurance Agency",1000105970,062206512,Checking,LOWE&AS-01
+"LSB Financial Services, Inc.",0671045,073905527,Checking,LSBFINA-01
+"M D Karstetter Agency, Inc.",1015270,031302955,Checking,KARSTET-01
+"M. Garnett Enterprises, Inc.",----,----,----,----
+"M2R, LLC",009161658269,053906041,Checking,M2RLLC--01
+"Malhotra & Associates, Inc",----,----,----,----
+"Marino Coverage Group, Inc.",7925533213,026013673,Checking,MARINOC-01
+"Mark A. Dunford Insurance Agency, Inc.",805767001,051402589,Checking,DUNFORD-01
+"Marlow Campbell Insurance Group, Inc.",2000059262965,053000219,Checking,MARLOWC-01
+"Mason Dixon Insurance Group",9848373354,052000113,Checking,MASODIX-01
+"MBN Associates, Inc",1020101568,043318092,Checking,MARIONM-01
+"McClenny Insurance Agency",0086890904,056004445,Checking,MCCLENN-01
+"McEvoy Insurance And Financial Services, Inc.",100000442244,044072324,Checking,MCEVOYI-01
+"McKinney Insurance Services, Inc.",237046485465,053000196,Checking,MCKINNE-01
+"McLean Marechal Ins And Fin Svcs LLC",380012369101,053906041,Checking,MCLEANM-01
+"Meagher Insurance And Financial Services, LLC",1415126701,031308535,Checking,MEAGHER-01
+"Meeder Insurance, LLC",7301440017,043306826,Checking,MEEDERI-01
+"Meincken Ins Services Inc DBA Clear Choice Ins",59071303,083001314,Checking,MEINCKE-01
+"Melissa C. Hutcheson",7400057030,051403164,Checking,HUTCHES-01
+"Melissa Pirkey Insurance Agency Co",1201304167,111916326,Checking,PIRKINS-01
+"Melton & Company Risk Mgmt & Fin Svcs Firm, LLC",119156,061213043,Checking,MELTONC-01
+"Mendoza Agency, Inc.",483025548915,021000322,Checking,MENDOZA-01
+"Michael J Coyle Insurance",1031814,041215854,Checking,COYLEMJ-01
+"Michael P. Lavelle Agency, Inc.",2364043295,021407912,Checking,LAVELLE-01
+"Michael S. Segars",002232782466,053904483,Checking,SEGARSM-01
+"MidFIN, LLC",----,----,----,----
+"Miers Insurance, Inc.",1000452457,031302997,Checking,MIERSIN-01
+"Mike Gilliam Agency",2631356926,053000219,Checking,GILLIAM-01
+"Mitchell J. Blecker Agency, Inc.",9362372967,021000021,Checking,BLECKER-01
+"Mobeck-Guandalini Insurance, LLC",2000058329003,021101108,Checking,MOBEINS-01
+"Morris & Garritano Insurance Agency, Inc.",0120004999,12238200,Checking,MORR&GA-01
+"Morris Insurance And Financial, LLC",100082033,051404419,Checking,EMORRIS-01
+"Morris Insurance Services, Inc.",446020760939,052001633,Checking,MORRIST-01
+"Moulton Insurance Group, Inc.",,,Checking,MOULTON-01
+"Muirhead Insurance Group, Inc",200000396511,122287251,Checking,MUIRHEA-01
+"Mullen Insurance Agency Inc.",5007017,011600567,Checking,MULLEN1-01
+"Mullins Insurance Agency",20002742,051404684,Checking,MULLINS-01
+"Muncie Insurance And Financial",9863412376,031302955,Checking,MUNCINS-01
+"Murray Insurance & Financial",502527901,114000093,Checking,MURRAYI-01
+"Mutter Insurance Agency, Inc.",40000133,051403672,Checking,MUTTINS-01
+"My Carolinas Insurance, LLC",1340011016072,053101121,Checking,MYCAROL-01
+"My Compass Group, Inc.",736868230,021000021,Checking,MYCOMPA-01
+"Nathan Grant And Associates",083131071901,053906041,Checking,NATHGRA-01
+"Nathan J. Snavely, Inc.",1220715088,231387602,Checking,SNAVINS-01
+"National Joint Services, LLC",334050422427,061000052,Checking,NATJOIN-01
+"Necaise Insurance And Financial",002902229954,053100300,Checking,NECAINS-01
+"Neofes Insurance Group, LLC",6312792467,036076150,Checking,NEOFESI-01
+"Next Generation Insurance Agency, Inc.",7926639019,042000314,Checking,MOORMAN-01
+"Nolan Agency, Inc.",1024272,061021060,Checking,NOLANAG-01
+"Nowlin Insurance Group, LLC",20539230,111102758,Checking,NOWLINS-01
+"NPIA, LLC",488096608562,111000025,Checking,NPIALLC-01
+"O'Hanlon Insurance",157528506528,121122676,Checking,OHANLON-01
+"Oakbridge Insurance Agency LLC - J Barry Walker",5500303978,062206295,Checking,JBARRYW-01
+"Oakbridge Insurance Agency LLC - Jenkins Skipworth",5500303978,062206295,Checking,JENSKIP-01
+"Oakbridge Insurance Agency LLC - Marietta Ins",5500303978,062206295,Checking,MARIETT-01
+"Oakbridge Insurance Agency LLC - Pittman Ins Grp",5500303978,062206295,Checking,PITTMAN-01
+"Oakbridge Insurance Agency LLC - Shield Ins",5500303978,062206295,Checking,SHIEINS-01
+"Oakes Insurance, Inc.",1372602,031306993,Checking,OAKESIN-01
+"Ocean Blue Insurance Agency, LLC",316775813,021000021,Checking,OCEANBL-01
+"Oliver Insurance And Financial",1110000343939,061113415,Checking,OLIVERI-01
+"OneGroup NY, Inc.",5100226572,021307559,Checking,ONEGROU-01
+"OpenQuote Insurance Agency, LLC",13330233,111915327,Checking,OPENQUO-01
+"Outland Insurance Agency, Inc.",723990222,044000037,Checking,OUTLAND-01
+"Owens Insurance Agency",145805707539,042100175,Checking,CUROWEN-01
+"Owens Insurance Agency & Financial Services, Inc",----,----,----,----
+"Oxygen Insurance Agency LLC",4415557482,011103093,Checking,OXYGENI-01
+"Palmetto Group Insurance, LLC",8892108245,053207766,Checking,PALMETT-01
+"Pamela Stern And Associates, LLC",2106023993,243374218,Checking,PAMSTER-01
+"Pantusa Insurance Agency",936442409,072000326,Checking,PANTUSA-01
+"Parker, Shelton And Associates, Inc.",0006001580,051403164,Checking,SHELTON-01
+"Parks Insurance Group",157528524828,121122676,Checking,PARKSIN-01
+"Parsons And Howard Insurance Group, LLC",25087624,042104168,Checking,PAR&HOW-01
+"Parsons Insurance Services, LLC",3023982573,083000108,Checking,PARSINS-01
+"Paul Hall And Associates, Inc.",765228,042212050,Checking,PAULHAL-01
+"Paul Insurance Agency, LLC",1050305157,043000096,Checking,PAULINS-01
+"Paul Kowalewski Insurance Agency",6489982329,031000503,Checking,KOWALEW-01
+"Payne Insurance Agency, Inc.",446031151702,052001633,Checking,PAYNINS-01
+"PDM Insurance Agency, Inc.",0016555,031304306,Checking,PDMINSU-01
+"PeakGroup.insure LLC",,,Checking,PEAKGRO-01
+"Performance Insurance Group",0005155918073,055003308,Checking,PERFINS-01
+"Perry Insurance Group",157530040714,121122676,Checking,PERRYIN-01
+"Perry White Insurance, Inc.",58072950,083001314,Checking,PERWHIT-01
+"Peter B Crilly And Associates",5565044812,054000030,Checking,PETECRI-01
+"Peterson And Strouse Agency, LLC",853595274,243083237,Checking,PETERSG-01
+"PMM Services, Inc.",839873236,072000326,Checking,MCNEALI-01
+"Policy Goat, LLC",6315879415,036076150,Checking,WARDINS-01
+"Premier Group, LLC",8044133,074911138,Checking,PREMGRO-01
+"Puffenbarger Ins And Fin Svcs",0000250753608,051404260,Checking,PUFFENB-01
+"Pyron Group, Inc.",5006416,065306189,Checking,PYRONGR-01
+"Querbes & Nelson",1000026778,065400137,Checking,QUERBES-01
+"Rabon Insurance Agency, Inc",157531722807,121122676,Checking,RABONIN-01
+"Raisley Insurance, Inc.",1082164109,043000096,Checking,RAISLEY-01
+"Randy Bowman Insurance Agency, Inc.",2000020603074,051400549,Checking,BOWMANR-01
+"Reeder Insurance And Financial",9847281129,052000113,Checking,REEDERI-01
+"Relation Ins Svcs Select, Inc. DBA Laufer Ins",157528508664,122235821,Checking,LAUFERI-01
+"Relations Ins Services Select DBA Ginsberg Agency",157531365995,121122676,Checking,GINSBER-01
+"Renee Oliver Insurance Agency, Inc.",2000055277763,055003201,Checking,RENEEOL-01
+"Rice Agency, Inc.",0155010578,031301422,Checking,RICEAGE-01
+"Rich Reilly Insurance Agency, LLC",003923919466,052001633,Checking,RICHREI-01
+"Richard W. Kotch, Jr.",16601231,043311497,Checking,KOTCHRI-01
+"Richard W. Palmer Insurance Agency, LLC",7302347146,043306826,Checking,RICHPAL-01
+"Richard W. Wilson Agency",6569631770,053207766,Checking,RICHWIL-01
+"Rick Gerety And Associates, Inc.",3150000081813,255077299,Checking,GERETYR-01
+"Rimmer & Associates, Inc.",,,Checking,RIMMERA-01
+"Roark, Inc.",2156466,051403041,Checking,ROARKIN-01
+"Robert Lee Agency, LLC",1063274396,043000096,Checking,ROBELEE-01
+"Robertson Ryan & Associates, Inc.",610047353,086300012,Checking,ROBERYA-01
+"Ron Keats Insurance Agency, Inc.",6901773570,021000021,Checking,KEATINS-01
+"Ronallo Insurance Group, LLC",1037842097,043000096,Checking,RONALLO-01
+"Royalty Insurance Agency LLC",488033591438,111000025,Checking,ROYALTY-01
+"Runyon Insurance, LLC",064351,051501817,Checking,RUNYINS-01
+"Russ Richardson Agency, Inc.",14148100,062206295,Checking,RUSSRIC-01
+"Rusty Healy Agency",300006866,084201294,Checking,HEALYRU-01
+"Ryant Insurance And Financial Services, LLC",4348487160,054001725,Checking,RYANINS-01
+"Sandifer Insurance And Financial Services, LLC",009160299591,053906041,Checking,SANDIFE-01
+"Sandy Garza & Associates, Inc.",----,----,Checking,SANGARZ-01
+"Santo Insurance & Financial Services",157529649657,121122676,Checking,SANTOIN-01
+"Scott Insurance Services",752353755,111000614,Checking,SCOTSER-01
+"Seagroves Agency, Inc",,,Checking,SEAGROV-01
+"Sechler Insurance Group, LLC",2003743976,043308691,Checking,SECHLER-01
+"Select Insurance Agency, LLC",8017632711,084201294,Checking,SELEINS-01
+"Shane Roer Agency, Inc.",483077959701,021000322,Checking,SHANROE-01
+"Sheally Insurance Group, Inc",,,Checking,SHEALLY-01
+"Sherman Insurance Group",100904722,041272279,Checking,SHERMAN-01
+"Sherry W. Grant Agency",1037703725,053200983,Checking,GRANTSW-01
+"Shetter Insurance Agency, LLC",770013084098,231379979,Checking,SHETTER-01
+"Shoemaker's Insurance & Financial Services, LLC",7778796743,231382241,Checking,SHOEMAK-01
+"Silverline Insurance Agency, LLC",392128101,021000021,Checking,SILVERL-01
+"Simmerer Insurance, LLC",1063338,055001096,Checking,SIMMERE-01
+"Simmons Insurance Agency",2111926,067011760,Checking,SIMMONS-01
+"SK Carney Insurance Services",----,----,----,----
+"Smith Insurance Group, Inc.",0011516622,031312288,Checking,SMITHIN-01
+"Snotherly Insurance Agency, Inc.",----,----,Checking,SNOTHER-01
+"Soliman Insurance And Financial Services, LLC",457030743090,122101706,Checking,SOLIMAN-01
+"Southeast Insurance Agency",157529954552,121122676,Checking,SOUTHEA-01
+"Southeastern Alliance Underwriters, LLC",1025026103,053208309,Checking,SOUTHAL-01
+"Southern Marketing Inc DBA Childress Ins Agency",72449894,082007649,Checking,CHILDRE-01
+"Spero Insurance Agency",157529874206,064103707,Checking,SPEROIN-01
+"Spicer Insurance Agency, LLC",9225153,082902757,Checking,SPICINS-01
+"Sposito Insurance Agency",10600325,041208719,Checking,SPOSITO-01
+"Steffens Insurance Group, Inc",710264,075907002,Checking,STEFFEN-01
+"Steffensmeier Insurance Agency LLC",256250,104904442,Checking,STEFMEI-01
+"Stone Agency",107103425,056001066,Checking,RICHSTO-01
+"Storer Insurance Agency",0554377217,255071981,Checking,STORERI-01
+"Swann Insurance, LLC",1000152654298,055002707,Checking,SWANINS-01
+"Sweeney Insurance Agency, Inc.",2000005572997,051400549,Checking,SWEENEY-01
+"Tango, Tango And Tango, Inc.",7047145419,021407912,Checking,TANGOTA-01
+"Tanis E Lilygren Ins Agy Inc DBA Broadwell Ins Grp",8024224780,051408949,Checking,BROADWE-01
+"Taylor And Brinkley Insurance, LLC",0000156533696,051404260,Checking,TAYLORB-01
+"Telamon Insurance & Financial Network, LLC.",889180857,211370558,Checking,TELAMON-01
+"Test Agency",0028193893,053000219,Checking,48939
+"TGIF Solutions, Inc.",908513556,072000326,Checking,TGIFSOL-01
+"Thacker Insurance And Financial Services, Inc.",2000025084944,051400549,Checking,THACKER-01
+"The Bouchat Agency",7110196589,043306826,Checking,BOUCHAT-01
+"The Bradshaw Agency, Inc.",793972198,072000326,Checking,BRADSHA-01
+"The Celeste Carey Agency, Inc.",876500322565,021000021,Checking,CELECAR-01
+"The Connor Agency",3115823,061103975,Checking,CONNAGE-01
+"The Cowey Insurance Group",0000152216041,051404260,Checking,COWEINS-01
+"The Cross Agency, LLC",8700162289,065300279,Checking,CROSSAG-01
+"The Dollar Agency, Inc.",1787945045,111900659,Checking,DOLLAGE-01
+"The Ferguson Agency",0754554801,061100606,Checking,JBHENTE-01
+"The Getzoni Agency, Inc.",327340000709,022000839,Checking,GETZONI-01
+"The Grogan Agency, Inc.",0501023423,061100606,Checking,GROGANA-01
+"The Guaraldi Agency",157531851861,122235821,Checking,GUARALD-01
+"The Hilb Group Of Maryland LLC DBA Ghaphery Ins",4451722441,111000012,Checking,KEITGHA-01
+"The Hilb Group Of Maryland, LLC",1000280867887,061000104,Checking,THEHILB-01
+"The Hilb Group Of MD LLC DBA Easley Hedrick Ins",4451722441,111000012,Checking,HEDRICK-01
+"The Hilb Group Of MD LLC DBA Harvey Ins",4451722441,111000012,Checking,HARVEYI-01
+"The Hilb Group Of MD LLC DBA Jack Braddon Ins",4451722441,111000012,Checking,BRADDON-01
+"The Hilb Group Of MD LLC DBA Mayo Ins",4451722441,111000012,Checking,MAYOINS-01
+"The Hilb Group Of MD LLC DBA Ronnie Shriner Ins",4451722441,111000012,Checking,SHRINER-01
+"The Hilb Group Of MD LLC DBA Ryan Harris Ins",4451722441,111000012,Checking,HARRISR-01
+"The Hoylen Agency, Inc.",0005221723564,053201607,Checking,BILLYHO-01
+"The Ignosh Insurance & Risk Management Group, Inc.",1385996,021113251,Checking,IGNOSHI-01
+"The Insurance Alliance Network, Inc.",0095579128,031301422,Checking,INSALLI-01
+"The Jason White Agency",75062745,084201278,Checking,JASOWHI-01
+"The Knight Insurance Agency, Inc.",----,----,Checking,KNIGHINS-01
+"The Lawrence Agency, Inc.",112008602,011501682,Checking,LAWRENC-01
+"The Markey Agency",0005140742661,061113415,Checking,MARKEYA-01
+"The May Group",0534138698,111900659,Checking,MAYGROU-01
+"The McClone Agency Inc.",146050,075917937,Checking,MCCLONE-01
+"The Merhar Agency, LLC",130122350817,041202582,Checking,MERHAGE-01
+"The Mike Arnold Insurance Agency, Inc.",1000305129,051408868,Checking,MIKEARN-01
+"The Murphy Agency, LLC",006031648421,053100300,Checking,MURPHYI-01
+"The ONE",----,----,----,----
+"The Paige Agency",60698578,084201278,Checking,PAIGEAG-01
+"The Pegram Agency, Inc.",----,----,Checking,PEGRAMA-01
+"The Photivihok Agency",7361615607,064103833,Checking,PHOTIVI-01
+"The Plexus Groupe LLC",1675992800,071925651,Checking,PLEXUSG-01
+"The Principe Agency",3871081098,021000021,Checking,PRINCIP-01
+"The Robert E Miller Insurance Agency Inc",9801205390,101000695,Checking,MILLERG-01
+"The Sadtler Agency, Inc.",1000195373922,055002707,Checking,SADTLER-01
+"The SIG Insurance Agencies",157529978395,121122676,Checking,STAMFOR-01
+"The Steffey Group LLC",1755115,074006674,Checking,STEFFEY-01
+"The Stoll Agency, Inc",8000135114,236073801,Checking,STOLLAG-01
+"The Sullivan Agency",1003327986,061100606,Checking,GARYSUL-01
+"The Todd Lorenzi Insurance Agency",6231027000,036076150,Checking,LORENZI-01
+"The Wills Agency",620110910201,053906041,Checking,WILLSAG-01
+"The WIN Agency, LLC",736168730,072000326,Checking,WINAGEN-01
+"Tim Hattaway Insurance Agency",0147325372,053201814,Checking,HATTAWA-01
+"TJ Mazur And Associates",649690872,122100024,Checking,MAZURTJ-01
+"Tooher-Ferraris Insurance Group",669371280,221172212,Checking,TOOHERF-01
+"Trails End Risk, LLC",1077430,103102216,Checking,TRAILEN-01
+"Trent Thompson Insurance, Inc.",58535268,083001314,Checking,TRENTHO-01
+"TrueNorth Companies",----,----,Checking,TRUENOR-01
+"Truliant Insurance Services, LLC",400050242539,253177832,Checking,TRULIAN-01
+"Trustpoint Insurance",----,----,----,----
+"Vaglica Agency, LLC",9858986566,022000046,Checking,VAGLICA-01
+"Vavas Insurance And Financial Services",1000065138,026011701,Checking,VAVASIN-01
+"Victor F. DeVito Agency",157531293882,121122676,Checking,DEVITOA-01
+"Villanueva Agency, Ltd",1000001097,051409278,Checking,VILLANU-01
+"Walker & Associates",157529874198,064103707,Checking,WALK&AS-01
+"WallaceGroup, LLC DBA Van Wallace Insurance Agency",8017226055,084201294,Checking,VANWALL-01
+"WareHouse Insurance LLC DBA W.I.N. Insurance",1000154059645,061000104,Checking,WAREHOU-01
+"Warren Carr Insurance Group",7300163487,043306826,Checking,CARRWAR-01
+"Warren Insurance Group, LLC",----,----,----,----
+"Watson Insurance Group, LLC",0005149733509,061113415,Checking,WATSINS-01
+"WBR Insurance Agy, LLC",----,----,----,----
+"Weatherly Insurance Agency, Inc.",5218300059,053101121,Checking,WEATHER-01
+"Wellhouse Agency",----,----,----,----
+"WGB-Raby, L.P. DBA Champion Risk & Ins Svcs, L.P.",9198452000,071925334,Checking,CHAMPRI-01
+"Whims Insurance And Financial Services, Inc.",8200477621,125008547,Checking,WHIMSINS-01
+"Whit Blanchard, Inc.",2049548080,061201754,Checking,BLANCHA-01
+"Whitley 360 Insurance Group",40229394,064008637,Checking,WHITLEY-01
+"Wickens Insurance Agency, Inc.",7930564351,074908594,Checking,WICKENS-01
+"Wil Plyler Insurance Agency",1530002300,053200983,Checking,PLYLER-01
+"Wilgus Insurance Agency, Inc.",0600410301,052101669,Checking,WILGINS-01
+"William L. Rudd And Associates, Inc.",100001033159,044072324,Checking,RUDD&AS-01
+"William M L Etter Insurance, Inc.",1122215,031304306,Checking,ETTERWM-01
+"William Snyder Insurance",1121001349,051401027,Checking,SNYDERW-01
+"William Staples Ins And Fin Svcs, Inc.",0900893101,052101669,Checking,STAPLES-01
+"Young Insurance And Financial",1260200323,043318092,Checking,YOUNINS-01
+"Zacharko Insurance Agency",101001733,043318092,Checking,ZACHARK-01

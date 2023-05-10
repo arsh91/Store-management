@@ -1,0 +1,32 @@
+"Agency Name","Agency Code","Account Number","Type of Account","Routing Number",Amount
+"Acrisure LLC DBA Spears & Houston Insurance Group",BRIANSP-01,"	579661189",Checking,"	072000326",235.26
+"Blaeser Insurance Agency, LLC",BLAESER-01,"	25040901",Checking,"	011500120",617.09
+"Cannon And Associates Insurance",CANNON&-01,"	7552712262",Checking,"	051400549",18.70
+"Coastal Insurance Agency, Inc.",COASINS-01,"	3500092201",Checking,"	051405670",162.26
+"Cothran Schoonover, LLC",COTHINS-01,"	1470013532354",Checking,"	051404260",183.76
+"Deep River Insurance",DEEPRIV-01,"	0011028610",Checking,"	053104568",0.00
+"East Coast Agency Of Wilmington, LLC",ECAWILM-01,"	87078215",Checking,"	056004445",673.34
+"Eastern Carolina Insurance",SCOTINS-01,"	002982393709",Checking,"	053100300",82.32
+"FirstChoice, A MarshBerry Company",,"	",,"	",559.05
+"Gary Blaustein Associates",BLAUSTE-01,"	157529789693",Checking,"	121122676",490.08
+"Graham Insurance, Inc.",GRAHINS-01,"	192003309",Checking,"	011501682",91.03
+"Greg Ridpath Insurance Agency, Inc.",GREGRID-01,"	5001350965",Checking,"	062006505",293.72
+"Homestead Insurance Agency Group, Inc.",HOMESTE-01,"	0011483901",Checking,"	051402589",0.00
+"Insley Insurance And Financial",INSLEYI-01,"	157530040722",Checking,"	121122676","2,108.90"
+"Insure, LLC",INSUREL-01,"	5739956513",Checking,"	053207766","1,830.33"
+"JD Auvil Agency, Inc.",JDAUVIL-01,"	0213060876",Checking,"	051408949",83.52
+"John F Baxter Inc DBA The Baxter Insurance Group",BAXTERI-01,"	1470002719851",Checking,"	051404260",7.56
+"Justice-Killam Insurance & Financial Services Inc",AVERINS-01,"	1000297091182",Checking,"	051000020",0.00
+"Knippenberg Insurance, Inc.",KNIPPEN-01,"	817365072",Checking,"	072000326",179.68
+"McClenny Insurance Agency",MCCLENN-01,"	0086890904",Checking,"	056004445",127.88
+"McEvoy Insurance And Financial Services, Inc.",MCEVOYI-01,"	100000442244",Checking,"	044072324",0.00
+"Mullen Insurance Agency Inc.",MULLEN1-01,"	5007017",Checking,"	011600567",30.21
+"Puffenbarger Ins And Fin Svcs",PUFFENB-01,"	0000250753608",Checking,"	051404260",25.51
+"Pyron Group, Inc.",PYRONGR-01,"	5006416",Checking,"	065306189","5,165.16"
+"Rice Agency, Inc.",RICEAGE-01,"	0155010578",Checking,"	031301422",8.01
+"Sweeney Insurance Agency, Inc.",SWEENEY-01,"	2000005572997",Checking,"	051400549","1,032.33"
+"The Mike Arnold Insurance Agency, Inc.",MIKEARN-01,"	1000305129",Checking,"	051408868",37.86
+"The SIG Insurance Agencies",STAMFOR-01,"	157529978395",Checking,"	121122676","1,165.39"
+"The SIG Insurance Agencies",STAMFOR-01,"	157529978395",Checking,"	121122676","1,165.39"
+"Villanueva Agency, Ltd",VILLANU-01,"	1000001097",Checking,"	051409278",0.00
+"Whims Insurance And Financial Services, Inc.",WHIMSINS-01,"	8200477621",Checking,"	125008547",247.63
