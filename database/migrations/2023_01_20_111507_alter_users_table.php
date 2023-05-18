@@ -14,7 +14,7 @@ class AlterUsersTable extends Migration
     public function up()
     {
         //
-		Schema::table('users', function (Blueprint $table) {
+		Schema::table('users_detail', function (Blueprint $table) {
 			$table->after('remember_token', function ($table) {
 			$table->double('salary',8,2)->default(0.0)->nullable();
 			$table->string('address')->nullable();
@@ -31,7 +31,7 @@ class AlterUsersTable extends Migration
      */
     public function down()
     {
-		Schema::table('users', function (Blueprint $table) {
+		Schema::table('users_detail', function (Blueprint $table) {
 			
 		$table->dropColumn(['salary','address','phone']);
 		});

@@ -14,7 +14,7 @@ class AlterUsersSalaryTable extends Migration
     public function up()
     {
             //
-		Schema::table('users', function (Blueprint $table) {
+		Schema::table('users_detail', function (Blueprint $table) {
 			$table->decimal('salary',18,2)->default(0.0)->nullable()->change();
 			});
     }

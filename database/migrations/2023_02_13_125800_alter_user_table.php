@@ -13,7 +13,7 @@ class AlterUserTable extends Migration
      */
     public function up()
     {
-        Schema::table('users', function (Blueprint $table) {
+        Schema::table('users_detail', function (Blueprint $table) {
 			$table->after('phone', function ($table) {
             $table->date('joining_date')->nullable();
 			$table->date('birth_date')->nullable();
@@ -29,7 +29,7 @@ class AlterUserTable extends Migration
      */
     public function down()
     {
-        Schema::table('users', function (Blueprint $table) {	
+        Schema::table('users_detail', function (Blueprint $table) {	
             $table->dropColumn(['joining_date','birth_date','profile_picture']);
             });
     }

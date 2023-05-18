@@ -20,19 +20,20 @@ class Users extends Authenticatable
      * @var array<int, string>
      */
     protected $fillable =[
-        'first_name',
-		'last_name',
+        'name',
         'email',
         'password',
-		'salary',
 		'phone',
-        'joining_date',
-        'birth_date',
-        'profile_picture',
 		'address',
-		'role_id',
-		'department_id',
-		'status'
+        'city',
+        'district',
+        'state',
+        'pincode',
+        'role_id',
+        'store_id',
+        'created_by',
+        'updated_by',
+        'deleted_by'
     ];
 
     /**
@@ -63,14 +64,4 @@ class Users extends Authenticatable
 	{
 	   $this->attributes['password'] = Hash::make($value);
 	}
-	
-	public function role()
-    {
-        return $this->belongsTo(Roles::class, 'role_id');
-    }
-	
-	public function department()
-    {
-        return $this->belongsTo(Departments::class, 'department_id');
-    }
 }

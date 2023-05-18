@@ -29,7 +29,10 @@ class LoginController extends Controller
  
         if (Auth::attempt($credentials)) {
             $request->session()->regenerate();
- 
+
+            if(auth()->user()->id !=1){
+                session(['storeId' => auth()->user()->store_id]);
+            }
             return redirect()->intended('dashboard');
         }
  

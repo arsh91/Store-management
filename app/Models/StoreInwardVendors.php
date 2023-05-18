@@ -6,17 +6,15 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
-class Departments extends Model
+class StoreInwardVendors extends Model
 {
-    use HasFactory,SoftDeletes;
-
-    /**
-     * The attributes that are mass assignable.
-     *
-     * @var array<int, string>
-     */
+    use HasFactory, SoftDeletes;
     protected $fillable = [
-        'name',
-        'status',
+        'store_id',
+        'vendor_name',
+        'vendor_description',
+        'created_by',
+        'updated_by',
+        'deleted_by'
     ];
 }

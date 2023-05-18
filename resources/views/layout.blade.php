@@ -1,7 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 @include('includes.css')
-
+<style>
+    .select2-container {
+        border: 1px solid #ced4da !important;
+        border-radius: 4px;
+        width: 281.528px;
+        padding: 0.375rem 2.25rem 0.375rem 0.75rem;
+        -moz-padding-start: calc(0.75rem - 3px);
+        -webkit-appearance: none;
+        -moz-appearance: none;
+    }
+    .select2-container--default .select2-selection--single {
+        background-color: #fff;
+        border: 0px;
+        border-radius: 0px;
+    }
+</style>
 <body>
     <main id="main" class="main">
         <!-- Navigation -->
@@ -31,7 +46,13 @@
     </main>
     @include('includes.jss')
     <script type="text/javascript">
-    $(document).ready(function() {});
+    $(document).ready(function() {
+        $(".search_select").select2(); 
+
+        $('#selectStore').change(function() {
+            $('form[name=storeSelectForm]').submit();
+        });
+    });
     </script>
     @yield('js_scripts')
 </body>
