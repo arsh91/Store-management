@@ -164,8 +164,7 @@
                                         class="rounded-circle picture"> -->
                                 </div>
                                 <div class="col-md-5">
-                                    <h6>{{ auth()->user()->first_name ?? " " }}</h6>
-                                    <span>{{ auth()->user()->role->name ?? " " }}</span>
+                                    <h6>{{ auth()->user()->name ?? " " }}</h6>
                                 </div>
                             </div>
                         </li>
@@ -173,13 +172,13 @@
                             <hr class="dropdown-divider">
                         </li>
                         <li>
-                        <li>
-                            <a class="dropdown-item d-flex align-items-center" href="{{route('profile')}}">
+                        <!-- <li>
+                            <a class="dropdown-item d-flex align-items-center" href="">
                                 <i class="bi bi-person"></i>
                                 <span>My Profile</span>
                             </a>
                         </li>
-                        <hr class="dropdown-divider">
+                        <hr class="dropdown-divider"> -->
 
                         <a class="dropdown-item d-flex align-items-center" href="{{ route('logout')}}">
                             <i class="bi bi-box-arrow-right"></i>
@@ -206,21 +205,6 @@
                     <span>Dashboard</span>
                 </a>
             </li><!-- End Dashboard Nav -->
-            <!-- @if(auth()->user()->role_id==env('SUPER_ADMIN')) -->
-            <!-- <li class="nav-item">
-                <a class="nav-link {{ request()->is('departments') ? '' : 'collapsed' }}"
-                    href="{{ route('departments.index') }}">
-                    <i class="bi bi-buildings"></i>
-                    <span>Departments</span>
-                </a>
-            </li> -->
-            <!-- <li class="nav-item">
-                <a class="nav-link {{ request()->is('role') ? '' : 'collapsed' }}" href="{{ route('role.index') }}">
-                    <i class="bi bi-people"></i>
-                    <span>Roles</span>
-                </a>
-            </li> -->
-            <!-- @endif -->
              <li class="nav-item">
                 <a class="nav-link {{ request()->is('stores') ? '' : 'collapsed' }}" href="{{ route('stores.index') }}">
                     <i class="bi bi-people"></i>
@@ -257,78 +241,6 @@
                 </a>
             </li>
             @endif
-            <!-- @if(auth()->user()->role_id==env('SUPER_ADMIN'))
-            <li class="nav-item">
-                <a class="nav-link {{ request()->is('attendance/teams') ? '' : 'collapsed' }} show"
-                    href="{{ route('teams.attendance') }}">
-                    <i class="bi bi-person-vcard-fill"></i>
-                    <span>Attendance</span>
-                </a>
-            </li>
-            @else
-            <li class="nav-item">
-                <a class="nav-link {{ request()->is('attendance') ? '' : 'collapsed' }}"
-                    data-bs-target="#attendance-nav" data-bs-toggle="collapse" href="#">
-                    <i class="bi bi-person-vcard-fill"></i></i><span>Attendance</span><i
-                        class="bi bi-chevron-down ms-auto"></i>
-                </a>
-                <ul id="attendance-nav"
-                    class="nav-content collapse {{ request()->is('attendance') || request()->is('attendance/teams') ? 'show' : '' }}"
-                    data-bs-parent="#sidebar-nav">
-                    <li>
-                        <a class="{{ request()->is('attendance') ? 'active' : 'collapsed' }}"
-                            href="{{ route('attendance.index') }}" href="">
-                            <i class="bi bi-circle "></i><span>My Attendance</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="{{ request()->is('attendance/teams') ? 'active' : 'collapsed ' }}"
-                            href="{{ route('teams.attendance')}}">
-                            <i class="bi bi-circle"></i><span>Team Attendance</span>
-                        </a>
-                    </li>
-                </ul>
-            </li>
-            @endif -->
-            <!-- @if(auth()->user()->role_id==env('SUPER_ADMIN'))
-            <li class="nav-item">
-                <a class="nav-link {{ request()->is('leaves/team') ? '' : 'collapsed' }}"
-                    href=" {{ route('team.leaves')}}">
-                    <i class="bi bi-menu-button-wide"></i>
-                    <span>Leaves</span>
-                </a>
-            </li>
-            @else
-            <li class="nav-item">
-                <a class="nav-link {{ request()->is('leaves') ? '' : 'collapsed' }}" data-bs-target="#leaves-nav"
-                    data-bs-toggle="collapse" href="#">
-                    <i class="bi bi-layout-text-window-reverse"></i><span>Leaves</span><i
-                        class="bi bi-chevron-down ms-auto"></i>
-                </a>
-                <ul id="leaves-nav"
-                    class="nav-content collapse {{ request()->is('leaves') || request()->is('leaves/teams') ? 'show' : '' }}"
-                    data-bs-parent="#sidebar-nav">
-                    <li>
-                        <a class=" {{ request()->is('leaves') ? 'active' : 'collapsed' }} "
-                            href=" {{ route('leaves.index') }}">
-                            <i class="bi bi-circle "></i><span>My Leaves</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a class=" {{ request()->is('leaves/teams') ? 'active' : 'collapsed' }} "
-                            href=" {{ route('team.leaves')}}">
-                            <i class="bi bi-circle"></i><span>Team Leaves</span>
-                        </a>
-                    </li>
-                </ul>
-            </li>
-            @endif -->
-            <!-- <li class="nav-item">
-                <a class="nav-link {{ request()->is('tickets') ? '' : 'collapsed' }}"
-                    href="{{ route('tickets.index') }}">
-                    <i class="bi bi-journal-code"></i> <span>Tickets</span>
-                </a>
-            </li> -->    
         </ul>
     </aside><!-- End Sidebar-->
 </body>
