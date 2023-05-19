@@ -29,5 +29,5 @@
     <link href="{{ asset('assets/css/datatables.css') }}" rel="stylesheet">
     <link href="{{ asset('assets/css/datatables.min.css') }}" rel="stylesheet">
     <link href="{{ asset('assets/css/select2.min.css') }}" rel="stylesheet">
-
+    <title>@yield('title')</title>
 </head>
