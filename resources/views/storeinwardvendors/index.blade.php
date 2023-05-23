@@ -74,30 +74,6 @@ $(document).ready(function() {
     });
 });
 
-function changeStatus(e) {
-    var storeId = $(e).attr("data-user-id");
-    var status = 0;
-    if ($("#active_store_" + storeId).prop('checked') == true) {
-        status = 1;
-    }
-    $.ajax({
-        type: 'POST',
-        url: "{{ url('/stores/statuschange')}}",
-        data: {
-            storeId: storeId,
-            status: status,
-        },
-        cache: false,
-        success: (data) => {
-            if (data.status == 200) {
-                location.reload();
-            }
-        },
-        error: function(data) {}
-    });
-
-}
-
 function deleteStoreInwardVendor(id) {
 if (confirm("Are you sure ?") == true) {
     // ajax

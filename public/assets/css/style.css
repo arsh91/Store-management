@@ -1442,3 +1442,6 @@ input:checked + .slider:before {
   line-height: 1;
   padding: 4px 6px 4px 6px;
 }
+.dataTables_filter{
+  margin-bottom: 15px !important;
+}

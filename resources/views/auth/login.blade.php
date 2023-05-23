@@ -1,7 +1,7 @@
+@section('title', 'Login')
 <!DOCTYPE html>
 <html lang="en">
 @include('includes.css')
-<title>Login</title>
 
 <body>
     <main>

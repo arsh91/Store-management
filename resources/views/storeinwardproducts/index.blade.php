@@ -1,12 +1,12 @@
 @extends('layout')
-@section('title', 'Store Product Category')
-@section('subtitle', 'Store Product Category')
+@section('title', 'Store Inward Products')
+@section('subtitle', 'Store Inward Products')
 @section('content')
 
 <div class="col-lg-12">
     <div class="card">
         <div class="card-body">
-            <a href="{{ route('storeproductcategories.create') }}" class="btn btn-primary mt-3">ADD<i class="bi bi-plus"></i></a>
+            <a href="{{ route('storeinwardproducts.create') }}" class="btn btn-primary mt-3">ADD<i class="bi bi-plus"></i></a>
             <div class="box-header with-border mt-3" id="filter-box">
                 @if(session()->has('message'))
                 <div class="alert alert-success message">
@@ -19,19 +19,38 @@
                     <table class="table table-borderless dashboard" id="role_table">
                         <thead>
                             <tr>
-                                <th>Name</th>
+                                <th>Product Name</th>
+                                <th>Inward Vendor</th>
+                                <th>Stock Inward</th>
+                                <th>Inward By</th>
+                                <th>Product Price</th>
+                                <th>Total Amount</th>
+                                <th>Bill No</th>
+                                <th>Inward Person From</th>
+                                <th>Bill Image</th>
                                 <th>Action</th>
                             </tr>
                         </thead>
                         <tbody>
-                         @if (!empty($StoreProductCategories))
-                        @forelse($StoreProductCategories as $data)
+                         @if (!empty($StoreInwardProducts))
+                        @forelse($StoreInwardProducts as $data)
                             <tr>
-                                <td>{{$data->category_name}}</td>
+                                <td>{{ $data->storeproduct->product_name}}</td>
+                                <td>{{ $data->storeinwardvendors->vendor_name}}</td>
+                                <td>{{ $data->stock_inward}}</td>
+                                <td>{{ $data->inwardby->name}}</td>
+                                <td>{{ $data->product_price}}</td>
+                                <td>{{ $data->total_amount}}</td>
+                                <td>{{ $data->bill_no}}</td>
+                                <td>{{ $data->inward_person_from}}</td>
                                 <td>
-                                    <a href="/storeproductcategories/edit/{{$data->id}}"><i style="color:#4154f1;" class="fa fa-edit fa-fw pointer"></i></a>
+                                <!-- <img src="{{asset('').$data->bill_image}}" width="50" height="50"> -->
+                                <a href="{{asset('').$data->bill_image}}" target="_blank">View bill</a>
+                                </td>
+                                <td>
+                                    <a href="/storeinwardproducts/edit/{{$data->id}}"><i style="color:#4154f1;" class="fa fa-edit fa-fw pointer"></i></a>
 
-                                    <i style="color:#4154f1;" onClick="deleteStoreProductCategory({{ $data->id }})"
+                                    <i style="color:#4154f1;" onClick="deleteStoreInwardProduct({{ $data->id }})"
                                         href="javascript:void(0)" class="fa fa-trash fa-fw pointer"></i>
                                 </td>
                             </tr>
@@ -72,12 +91,12 @@ $(document).ready(function() {
     });
 });
 
-function deleteStoreProductCategory(id) {
+function deleteStoreInwardProduct(id) {
 if (confirm("Are you sure ?") == true) {
     // ajax
     $.ajax({
         type: "DELETE",
-        url: "{{ url('/storeproductcategories/delete') }}",
+        url: "{{ url('/storeinwardproducts/delete') }}",
         data: {
             id: id
         },

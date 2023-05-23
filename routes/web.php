@@ -7,6 +7,10 @@ use App\Http\Controllers\StoresController;
 use App\Http\Controllers\StoreInwardVendorsController;
 use App\Http\Controllers\StoreOutwardVendorsController;
 use App\Http\Controllers\StoreProductCategoriesController;
+use App\Http\Controllers\StoreProductsController;
+use App\Http\Controllers\StoreInwardProductsController;
+use App\Http\Controllers\StoreOutwardProductsController;
+use App\Http\Controllers\StoreOutwardProductReversalsController;
 
 /*
 |--------------------------------------------------------------------------
@@ -59,6 +63,34 @@ Route::group(['middleware' => ['auth']], function() {
 		Route::get('/storeproductcategories/edit/{id}', [StoreProductCategoriesController::class, 'edit'])->name('storeproductcategories.edit');
 		Route::post('/storeproductcategories/update/{id}', [StoreProductCategoriesController::class, 'update'])->name('storeproductcategories.update');
 		Route::delete('/storeproductcategories/delete', [StoreProductCategoriesController::class, 'destroy']);
+
+		Route::get('/storeproducts', [StoreProductsController::class, 'index'])->name('storeproducts.index');
+		Route::get('/storeproducts/create', [StoreProductsController::class, 'create'])->name('storeproducts.create');
+		Route::post('/storeproducts/store', [StoreProductsController::class, 'store'])->name('storeproducts.store');
+		Route::get('/storeproducts/edit/{id}', [StoreProductsController::class, 'edit'])->name('storeproducts.edit');
+		Route::post('/storeproducts/update/{id}', [StoreProductsController::class, 'update'])->name('storeproducts.update');
+		Route::delete('/storeproducts/delete', [StoreProductsController::class, 'destroy']);
+
+		Route::get('/storeinwardproducts', [StoreInwardProductsController::class, 'index'])->name('storeinwardproducts.index');
+		Route::get('/storeinwardproducts/create', [StoreInwardProductsController::class, 'create'])->name('storeinwardproducts.create');
+		Route::post('/storeinwardproducts/store', [StoreInwardProductsController::class, 'store'])->name('storeinwardproducts.store');
+		Route::get('/storeinwardproducts/edit/{id}', [StoreInwardProductsController::class, 'edit'])->name('storeinwardproducts.edit');
+		Route::post('/storeinwardproducts/update/{id}', [StoreInwardProductsController::class, 'update'])->name('storeinwardproducts.update');
+		Route::delete('/storeinwardproducts/delete', [StoreInwardProductsController::class, 'destroy']);
+
+		Route::get('/storeoutwardproducts', [StoreOutwardProductsController::class, 'index'])->name('storeoutwardproducts.index');
+		Route::get('/storeoutwardproducts/create', [StoreOutwardProductsController::class, 'create'])->name('storeoutwardproducts.create');
+		Route::post('/storeoutwardproducts/store', [StoreOutwardProductsController::class, 'store'])->name('storeoutwardproducts.store');
+		Route::get('/storeoutwardproducts/edit/{id}', [StoreOutwardProductsController::class, 'edit'])->name('storeoutwardproducts.edit');
+		Route::post('/storeoutwardproducts/update/{id}', [StoreOutwardProductsController::class, 'update'])->name('storeoutwardproducts.update');
+		Route::delete('/storeoutwardproducts/delete', [StoreOutwardProductsController::class, 'destroy']);
+
+		Route::get('/storeoutwardproductreversals', [StoreOutwardProductReversalsController::class, 'index'])->name('storeoutwardproductreversals.index');
+		Route::get('/storeoutwardproductreversals/create', [StoreOutwardProductReversalsController::class, 'create'])->name('storeoutwardproductreversals.create');
+		Route::post('/storeoutwardproductreversals/store', [StoreOutwardProductReversalsController::class, 'store'])->name('storeoutwardproductreversals.store');
+		Route::get('/storeoutwardproductreversals/edit/{id}', [StoreOutwardProductReversalsController::class, 'edit'])->name('storeoutwardproductreversals.edit');
+		Route::post('/storeoutwardproductreversals/update/{id}', [StoreOutwardProductReversalsController::class, 'update'])->name('storeoutwardproductreversals.update');
+		Route::delete('/storeoutwardproductreversals/delete', [StoreOutwardProductReversalsController::class, 'destroy']);
 	});
 
 	Route::get('logout', [LoginController::class, 'logOut'])->name('logout');

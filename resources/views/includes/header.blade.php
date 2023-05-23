@@ -207,30 +207,59 @@
             </li><!-- End Dashboard Nav -->
              <li class="nav-item">
                 <a class="nav-link {{ request()->is('stores') ? '' : 'collapsed' }}" href="{{ route('stores.index') }}">
-                    <i class="bi bi-people"></i>
+                    <!-- <i class="bi bi-people"></i> -->
+                    <i class="bi-shop"></i>
                     <span>Stores</span>
                 </a>
             </li>
             @if(session('storeId'))
             <li class="nav-item">
                 <a class="nav-link {{ request()->is('storeinwardvendors') ? '' : 'collapsed' }}" href="{{ route('storeinwardvendors.index') }}">
-                    <i class="bi bi-person-square"></i>
+                <i class="bi-box-arrow-in-right" style="font-size: 19px;"></i>
                     <span>Store Inward Vendors
                     </span>
                 </a>
             </li>
             <li class="nav-item">
                 <a class="nav-link {{ request()->is('storeoutwardvendors') ? '' : 'collapsed' }}" href="{{ route('storeoutwardvendors.index') }}">
-                    <i class="bi bi-person-square"></i>
+                <i class="bi-box-arrow-in-left" style="font-size: 19px;"></i>
                     <span>Store Outward Vendors
                     </span>
                 </a>
             </li>
             <li class="nav-item">
                 <a class="nav-link {{ request()->is('storeproductcategories') ? '' : 'collapsed' }}" href="{{ route('storeproductcategories.index') }}">
-                    <i class="bi bi-person-square"></i>
-                    <span>Store Product Category
+                <i class="bi-list-check" style="font-size: 19px;"></i>                    
+                <span>Store Product Categories
+                </span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {{ request()->is('storeproducts') ? '' : 'collapsed' }}" href="{{ route('storeproducts.index') }}">
+                <i class="bi-layout-wtf" style="font-size: 19px;"></i>
+                    <span>Store Products
                     </span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {{ request()->is('storeinwardproducts') ? '' : 'collapsed' }}" href="{{ route('storeinwardproducts.index') }}">
+                <i class="bi-sort-down" style="font-size: 19px;"></i>                    
+                <span>Store Inward Products
+                    </span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {{ request()->is('storeoutwardproducts') ? '' : 'collapsed' }}" href="{{ route('storeoutwardproducts.index') }}">
+                <i class="bi-sort-up" style="font-size: 19px;"></i>     
+                    <span>Store Outward Products
+                    </span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {{ request()->is('storeoutwardproductreversals') ? '' : 'collapsed' }}" href="{{ route('storeoutwardproductreversals.index') }}">
+                <i class="bi-arrow-left-right" style="font-size: 19px;"></i>
+                <span>Store Outward Product Reversals
+                </span>
                 </a>
             </li>
             <li class="nav-item">
