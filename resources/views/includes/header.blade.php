@@ -13,9 +13,8 @@
             </a>
             <i class="bi bi-list toggle-sidebar-btn"></i>
         </div><!-- End Logo -->
-
         @if(auth()->user()->id == 1)
-        <div class="search-bar">
+        <!-- <div class="search-bar"> -->
             <form name="storeSelectForm" class="storeSelectForm d-flex align-items-center" method="POST" action="{{ route('stores.selectStore') }}">
                 @csrf
             <select class="search_select form-select" style="width: 281.528px;" name="selectStore" id="selectStore">
@@ -27,11 +26,10 @@
                 @endforeach
                 </select>
             </form>
-        </div>
+        <!-- </div> -->
         @endif
         <nav class="header-nav ms-auto">
             <ul class="d-flex align-items-center">
-
                 <li class="nav-item d-block d-lg-none">
                     <a class="nav-link nav-icon search-bar-toggle " href="#">
                         <i class="bi bi-search"></i>

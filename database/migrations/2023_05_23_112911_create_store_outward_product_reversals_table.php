@@ -15,6 +15,7 @@ class CreateStoreOutwardProductReversalsTable extends Migration
     {
         Schema::create('store_outward_product_reversals', function (Blueprint $table) {
             $table->id();
+            $table->integer('store_id')->constrained()->nullable();
             $table->integer('store_product_id')->constrained()->nullable();
             $table->integer('outward_id')->constrained()->nullable();
             $table->integer('reversal_quantity')->nullable();

@@ -12,6 +12,9 @@ class Stores extends Model
     protected $fillable = [
         'name',
         'location',
+        'city',
+        'state',
+        'pincode',
         'active',
         'created_by',
         'updated_by',

@@ -16,6 +16,15 @@
         border: 0px;
         border-radius: 0px;
     }
+
+    @media (max-width:961px){
+        .select2-container {
+            width: 247px;
+        }
+        .storeSelectForm{
+            width: 247px;
+        }
+    }
 </style>
 <body>
     <main id="main" class="main">
